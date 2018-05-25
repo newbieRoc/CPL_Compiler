@@ -1,0 +1,4 @@
+int love = 0;
+if (love == 0) {
+	love = 1;
+}
